@@ -34,3 +34,6 @@ Foundation Project first project creating recipe
     -- google-chrome &
     -- code
     
+
+    7/4/24
+    ADDED CSS CHANGES AS WELL AS HOME PAGE LINKS ON RECIPE PAGES
