@@ -1,0 +1,27 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: whitesmoke;
+    color: rgb(37, 173, 55);
+    font-weight: 400px;
+}
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 42px;
+}
+
+h2, h3 {
+    font-size: 36px;
+}
+
+a {
+    font-size: 28px;
+}
+
+p, ul, li {
+    font-size: 26px;
+}
